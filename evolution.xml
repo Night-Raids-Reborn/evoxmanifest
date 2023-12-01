@@ -63,7 +63,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
-  <project path="build/soong" name="Night-Raids-Reborn/evox_soong" remote="github"  revision="udc" >
+  <project path="build/soong" name="Night-Raids-Reborn/evox_soong" remote="github" revision="udc" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
